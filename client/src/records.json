@@ -1,0 +1,14 @@
+module.exports = [
+{"artist": "tool" ,
+"title": "lateralus" ,
+"price": 19.00 },
+{"artist": "ratm" ,
+"title": "renagades" ,
+"price": 18.00 },
+{"artist": "korn" ,
+"title": "follow the leader" ,
+"price": 18.00 },
+{"artist": "a perfect circle" ,
+"title": "thirteenth step" ,
+"price": 20.00 },
+]
